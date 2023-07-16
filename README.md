@@ -8,16 +8,16 @@ The title of the project is" RED DEALS-BLOOD DONOR "
    Website
 
 # HARDWARE REQUIREMENTS:
-• RAM- 512 MB (Client side), 2GB (Server side)
-• Processor- Snapdragon (C), Qualcomm (S)
-• Storgare – 1GB (C), 2 GB (S)
-• Graphic processor – Octacore(C), up to 2.96 GHz (S)
+1. RAM- 512 MB (Client side), 2GB (Server side)
+2. Processor- Snapdragon (C), Qualcomm (S)
+3. Storgare – 1GB (C), 2 GB (S)
+4. Graphic processor – Octacore(C), up to 2.96 GHz (S)
 
 # SOFTWARE REQUIREMENTS:
-• Flutter
-• Figma
-• Illustration
-• Sketch ware
+1. Flutter
+2. Figma
+3. Illustration
+4. Sketch ware
 
 # CONCLUSION:
 1. Searching and contacting for suitable donors during there emergency time.
